@@ -1,2 +1,2 @@
 #Demo
-shopify theme clas
+shopify theme class using Dawn Theme
